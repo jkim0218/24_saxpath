@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="saxpath">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/saxpath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
